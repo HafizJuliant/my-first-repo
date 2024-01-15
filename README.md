@@ -1,3 +1,3 @@
 # my-first-repo
 
-hello saya mengubah file ini
+hello saya mengubah file ini.
